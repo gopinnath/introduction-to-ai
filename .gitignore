@@ -1,0 +1,11 @@
+# Maven Target
+target/
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### Cobol Executable with extension *.so ###
+**/*.so
